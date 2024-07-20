@@ -1,1 +1,1 @@
-A StopWatch Timer Made by html,css and javascript.
+A StopWatch Timer to calculate your time instantly not gain or not loose.
